@@ -1,8 +1,8 @@
-# Assignment 3: Representing and Describing Texts
+# Assignment 4: Supervised Methods
 
 To download the assignment, run the following code in R:
 
 ```{r}
 library("usethis")
-use_course("https://github.com/PLSC-31510/A3-Describing/archive/refs/heads/main.zip")
+use_course("https://github.com/PLSC-31510/A4-Supervised/archive/refs/heads/master.zip")
 ```
